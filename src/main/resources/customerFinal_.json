@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "courseName": "Cypress",
+      "purchasedDate": "2022-02-08",
+      "amount": 76,
+      "location": "Argentina"
+    },
+    {
+      "courseName": "Detox",
+      "purchasedDate": "2022-02-08",
+      "amount": 76,
+      "location": "Argentina"
+    },
+    {
+      "courseName": "Postman",
+      "purchasedDate": "2022-02-08",
+      "amount": 76,
+      "location": "Argentina"
+    },
+    {
+      "courseName": "Web Services",
+      "purchasedDate": "2022-02-09",
+      "amount": 130,
+      "location": "Argentina"
+    }
+  ]
+}
